@@ -1,0 +1,1 @@
+{"version":3,"file":"cdk-virtual-scroll-custom-strategy-example.css.shim.ngstyle.js","sourceRoot":"","sources":["../../../../src/material-examples/cdk-virtual-scroll-custom-strategy/cdk-virtual-scroll-custom-strategy-example.css.shim.ngstyle.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

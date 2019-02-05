@@ -1,0 +1,1 @@
+{"version":3,"file":"drop-list.ngfactory.js","sourceRoot":"","sources":["../../../../../src/cdk/drag-drop/directives/drop-list.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

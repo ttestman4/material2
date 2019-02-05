@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"TabGroupAlignExample":{"__symbolic":"class","decorators":[{"__symbolic":"call","expression":{"__symbolic":"reference","module":"@angular/core","name":"Component","line":5,"character":1},"arguments":[{"selector":"tab-group-align-example","templateUrl":"tab-group-align-example.html","styleUrls":["tab-group-align-example.css"]}]}]}}}]

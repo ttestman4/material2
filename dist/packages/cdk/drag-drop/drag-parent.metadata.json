@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"CDK_DRAG_PARENT":{"__symbolic":"new","expression":{"__symbolic":"reference","module":"@angular/core","name":"InjectionToken","line":16,"character":35},"arguments":["CDK_DRAG_PARENT"]}},"importAs":"@angular/cdk/drag-drop"}]

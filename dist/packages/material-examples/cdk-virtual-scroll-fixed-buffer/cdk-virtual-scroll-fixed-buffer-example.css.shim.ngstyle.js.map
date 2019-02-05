@@ -1,0 +1,1 @@
+{"version":3,"file":"cdk-virtual-scroll-fixed-buffer-example.css.shim.ngstyle.js","sourceRoot":"","sources":["../../../../src/material-examples/cdk-virtual-scroll-fixed-buffer/cdk-virtual-scroll-fixed-buffer-example.css.shim.ngstyle.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}

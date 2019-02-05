@@ -1,0 +1,1 @@
+{"version":3,"file":"drag.ngfactory.js","sourceRoot":"","sources":["../../../../../src/cdk/drag-drop/directives/drag.ngfactory.ts"],"names":[],"mappings":"","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n"]}
